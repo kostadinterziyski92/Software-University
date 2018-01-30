@@ -1,0 +1,6 @@
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\03.ExchangeVariableValues\bin\Debug\03.ExchangeVariableValues.exe.config
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\03.ExchangeVariableValues\bin\Debug\03.ExchangeVariableValues.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\03.ExchangeVariableValues\bin\Debug\03.ExchangeVariableValues.pdb
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\03.ExchangeVariableValues\obj\Debug\03.ExchangeVariableValues.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\03.ExchangeVariableValues\obj\Debug\03.ExchangeVariableValues.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\03.ExchangeVariableValues\obj\Debug\03.ExchangeVariableValues.pdb

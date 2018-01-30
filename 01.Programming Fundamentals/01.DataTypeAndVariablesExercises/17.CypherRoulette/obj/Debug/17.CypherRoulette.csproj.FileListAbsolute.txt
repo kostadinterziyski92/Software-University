@@ -1,0 +1,6 @@
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\17.CypherRoulette\bin\Debug\17.CypherRoulette.exe.config
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\17.CypherRoulette\bin\Debug\17.CypherRoulette.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\17.CypherRoulette\bin\Debug\17.CypherRoulette.pdb
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\17.CypherRoulette\obj\Debug\17.CypherRoulette.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\17.CypherRoulette\obj\Debug\17.CypherRoulette.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\17.CypherRoulette\obj\Debug\17.CypherRoulette.pdb

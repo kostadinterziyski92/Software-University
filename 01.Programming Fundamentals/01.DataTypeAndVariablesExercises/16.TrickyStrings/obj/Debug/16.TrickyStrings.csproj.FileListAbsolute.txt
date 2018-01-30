@@ -1,0 +1,6 @@
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.exe.config
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.pdb
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.pdb

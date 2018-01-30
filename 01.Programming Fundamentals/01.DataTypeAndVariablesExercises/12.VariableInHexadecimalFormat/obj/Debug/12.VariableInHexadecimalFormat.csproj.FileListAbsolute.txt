@@ -1,0 +1,7 @@
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\12.VariableInHexadecimalFormat\bin\Debug\12.VariableInHexadecimalFormat.exe.config
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\12.VariableInHexadecimalFormat\bin\Debug\12.VariableInHexadecimalFormat.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\12.VariableInHexadecimalFormat\bin\Debug\12.VariableInHexadecimalFormat.pdb
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\12.VariableInHexadecimalFormat\obj\Debug\12.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\12.VariableInHexadecimalFormat\obj\Debug\12.VariableInHexadecimalFormat.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\12.VariableInHexadecimalFormat\obj\Debug\12.VariableInHexadecimalFormat.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\12.VariableInHexadecimalFormat\obj\Debug\12.VariableInHexadecimalFormat.pdb

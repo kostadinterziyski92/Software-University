@@ -1,0 +1,7 @@
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe.config
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.pdb
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.pdb

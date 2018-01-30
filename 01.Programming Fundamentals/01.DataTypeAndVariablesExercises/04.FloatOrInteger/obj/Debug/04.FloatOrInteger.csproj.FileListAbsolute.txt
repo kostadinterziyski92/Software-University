@@ -1,0 +1,6 @@
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\04.FloatOrInteger\bin\Debug\04.FloatOrInteger.exe.config
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\04.FloatOrInteger\bin\Debug\04.FloatOrInteger.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\04.FloatOrInteger\bin\Debug\04.FloatOrInteger.pdb
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\04.FloatOrInteger\obj\Debug\04.FloatOrInteger.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\04.FloatOrInteger\obj\Debug\04.FloatOrInteger.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\04.FloatOrInteger\obj\Debug\04.FloatOrInteger.pdb

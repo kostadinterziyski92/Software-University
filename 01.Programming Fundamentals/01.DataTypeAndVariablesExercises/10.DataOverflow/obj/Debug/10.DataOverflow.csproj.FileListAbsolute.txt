@@ -1,0 +1,7 @@
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\10.DataOverflow\bin\Debug\10.DataOverflow.exe.config
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\10.DataOverflow\bin\Debug\10.DataOverflow.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\10.DataOverflow\bin\Debug\10.DataOverflow.pdb
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\10.DataOverflow\obj\Debug\10.DataOverflow.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\10.DataOverflow\obj\Debug\10.DataOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\10.DataOverflow\obj\Debug\10.DataOverflow.exe
+C:\Users\Kostadin Terziyski\Desktop\SoftUni-Programming-Fundamentals-2017\DataTypeAndVariablesExercises\10.DataOverflow\obj\Debug\10.DataOverflow.pdb
