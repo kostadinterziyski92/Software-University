@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\bin\Debug\netcoreapp2.0\09.StackFIbonacci.deps.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\bin\Debug\netcoreapp2.0\09.StackFIbonacci.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\bin\Debug\netcoreapp2.0\09.StackFIbonacci.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\bin\Debug\netcoreapp2.0\09.StackFIbonacci.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\bin\Debug\netcoreapp2.0\09.StackFIbonacci.pdb
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\obj\Debug\netcoreapp2.0\09.StackFIbonacci.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\obj\Debug\netcoreapp2.0\09.StackFIbonacci.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\obj\Debug\netcoreapp2.0\09.StackFIbonacci.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\obj\Debug\netcoreapp2.0\09.StackFIbonacci.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\obj\Debug\netcoreapp2.0\09.StackFIbonacci.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\09.StackFIbonacci\obj\Debug\netcoreapp2.0\09.StackFIbonacci.pdb

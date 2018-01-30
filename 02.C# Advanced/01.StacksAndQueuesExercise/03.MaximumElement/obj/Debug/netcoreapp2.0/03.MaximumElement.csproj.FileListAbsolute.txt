@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.deps.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.pdb
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.pdb

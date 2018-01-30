@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.deps.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.pdb
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\05.CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05.CalculateSequenceWithQueue.pdb

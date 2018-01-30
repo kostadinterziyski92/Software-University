@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\netcoreapp2.0\02.BasicStackOperations.deps.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\netcoreapp2.0\02.BasicStackOperations.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\netcoreapp2.0\02.BasicStackOperations.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\netcoreapp2.0\02.BasicStackOperations.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\netcoreapp2.0\02.BasicStackOperations.pdb
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\netcoreapp2.0\02.BasicStackOperations.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\netcoreapp2.0\02.BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\netcoreapp2.0\02.BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\netcoreapp2.0\02.BasicStackOperations.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\netcoreapp2.0\02.BasicStackOperations.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\netcoreapp2.0\02.BasicStackOperations.pdb

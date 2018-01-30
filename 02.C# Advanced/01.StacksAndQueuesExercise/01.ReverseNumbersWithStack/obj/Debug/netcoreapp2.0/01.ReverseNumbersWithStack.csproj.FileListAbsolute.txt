@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\bin\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.deps.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\bin\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\bin\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\bin\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\bin\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.pdb
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\obj\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\obj\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\obj\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\obj\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\obj\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\01.StacksAndQueuesExercise\01.ReverseNumbersWithStack\obj\Debug\netcoreapp2.0\01.ReverseNumbersWithStack.pdb

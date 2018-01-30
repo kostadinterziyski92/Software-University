@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.deps.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.pdb
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.dll
+C:\Users\Kostadin Terziyski\Desktop\CSharp-Advanced-January-2018\03.Streams\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.pdb
