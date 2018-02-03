@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\bin\Debug\netcoreapp2.0\08.StringEncryption.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\bin\Debug\netcoreapp2.0\08.StringEncryption.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\bin\Debug\netcoreapp2.0\08.StringEncryption.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\bin\Debug\netcoreapp2.0\08.StringEncryption.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\bin\Debug\netcoreapp2.0\08.StringEncryption.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\obj\Debug\netcoreapp2.0\08.StringEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\obj\Debug\netcoreapp2.0\08.StringEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\obj\Debug\netcoreapp2.0\08.StringEncryption.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\obj\Debug\netcoreapp2.0\08.StringEncryption.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\obj\Debug\netcoreapp2.0\08.StringEncryption.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\08.StringEncryption\obj\Debug\netcoreapp2.0\08.StringEncryption.pdb

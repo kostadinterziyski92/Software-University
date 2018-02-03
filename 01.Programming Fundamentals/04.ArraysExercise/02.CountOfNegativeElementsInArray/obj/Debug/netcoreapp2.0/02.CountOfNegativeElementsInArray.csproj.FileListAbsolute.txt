@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\bin\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\bin\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\bin\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\bin\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\bin\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\obj\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\obj\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\obj\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\obj\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\obj\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\02.CountOfNegativeElementsInArray\obj\Debug\netcoreapp2.0\02.CountOfNegativeElementsInArray.pdb

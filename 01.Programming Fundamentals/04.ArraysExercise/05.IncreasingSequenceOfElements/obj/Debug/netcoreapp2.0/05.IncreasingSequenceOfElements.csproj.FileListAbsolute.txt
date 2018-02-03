@@ -1,0 +1,10 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\bin\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\bin\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\bin\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\bin\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\bin\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\obj\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\obj\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\obj\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\obj\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\05.IncreasingSequenceOfElements\obj\Debug\netcoreapp2.0\05.IncreasingSequenceOfElements.pdb

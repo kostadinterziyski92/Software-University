@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\bin\Debug\netcoreapp2.0\01.LargestElementInArray.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\bin\Debug\netcoreapp2.0\01.LargestElementInArray.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\bin\Debug\netcoreapp2.0\01.LargestElementInArray.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\bin\Debug\netcoreapp2.0\01.LargestElementInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\bin\Debug\netcoreapp2.0\01.LargestElementInArray.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\obj\Debug\netcoreapp2.0\01.LargestElementInArray.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\obj\Debug\netcoreapp2.0\01.LargestElementInArray.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\obj\Debug\netcoreapp2.0\01.LargestElementInArray.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\obj\Debug\netcoreapp2.0\01.LargestElementInArray.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\obj\Debug\netcoreapp2.0\01.LargestElementInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\01.LargestElementInArray\obj\Debug\netcoreapp2.0\01.LargestElementInArray.pdb

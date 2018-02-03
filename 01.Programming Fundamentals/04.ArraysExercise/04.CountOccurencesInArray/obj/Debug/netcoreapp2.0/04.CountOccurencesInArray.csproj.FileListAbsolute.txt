@@ -1,0 +1,10 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\bin\Debug\netcoreapp2.0\04.CountOccurencesInArray.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\bin\Debug\netcoreapp2.0\04.CountOccurencesInArray.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\bin\Debug\netcoreapp2.0\04.CountOccurencesInArray.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\bin\Debug\netcoreapp2.0\04.CountOccurencesInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\bin\Debug\netcoreapp2.0\04.CountOccurencesInArray.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\obj\Debug\netcoreapp2.0\04.CountOccurencesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\obj\Debug\netcoreapp2.0\04.CountOccurencesInArray.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\obj\Debug\netcoreapp2.0\04.CountOccurencesInArray.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\obj\Debug\netcoreapp2.0\04.CountOccurencesInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\04.CountOccurencesInArray\obj\Debug\netcoreapp2.0\04.CountOccurencesInArray.pdb

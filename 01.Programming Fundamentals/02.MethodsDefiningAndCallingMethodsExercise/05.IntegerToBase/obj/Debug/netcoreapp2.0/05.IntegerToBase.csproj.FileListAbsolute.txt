@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\bin\Debug\netcoreapp2.0\05.IntegerToBase.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\bin\Debug\netcoreapp2.0\05.IntegerToBase.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\bin\Debug\netcoreapp2.0\05.IntegerToBase.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\bin\Debug\netcoreapp2.0\05.IntegerToBase.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\bin\Debug\netcoreapp2.0\05.IntegerToBase.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\obj\Debug\netcoreapp2.0\05.IntegerToBase.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\obj\Debug\netcoreapp2.0\05.IntegerToBase.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\obj\Debug\netcoreapp2.0\05.IntegerToBase.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\obj\Debug\netcoreapp2.0\05.IntegerToBase.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\obj\Debug\netcoreapp2.0\05.IntegerToBase.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\05.IntegerToBase\obj\Debug\netcoreapp2.0\05.IntegerToBase.pdb

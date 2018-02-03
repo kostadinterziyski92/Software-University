@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\bin\Debug\netcoreapp2.0\02.MinMethod.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\bin\Debug\netcoreapp2.0\02.MinMethod.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\bin\Debug\netcoreapp2.0\02.MinMethod.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\bin\Debug\netcoreapp2.0\02.MinMethod.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\bin\Debug\netcoreapp2.0\02.MinMethod.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\obj\Debug\netcoreapp2.0\02.MinMethod.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\obj\Debug\netcoreapp2.0\02.MinMethod.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\obj\Debug\netcoreapp2.0\02.MinMethod.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\obj\Debug\netcoreapp2.0\02.MinMethod.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\obj\Debug\netcoreapp2.0\02.MinMethod.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\02MinMethod\obj\Debug\netcoreapp2.0\02.MinMethod.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\bin\Debug\netcoreapp2.0\07.NumbersToWords.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\bin\Debug\netcoreapp2.0\07.NumbersToWords.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\bin\Debug\netcoreapp2.0\07.NumbersToWords.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\bin\Debug\netcoreapp2.0\07.NumbersToWords.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\bin\Debug\netcoreapp2.0\07.NumbersToWords.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\obj\Debug\netcoreapp2.0\07.NumbersToWords.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\obj\Debug\netcoreapp2.0\07.NumbersToWords.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\obj\Debug\netcoreapp2.0\07.NumbersToWords.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\obj\Debug\netcoreapp2.0\07.NumbersToWords.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\obj\Debug\netcoreapp2.0\07.NumbersToWords.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\02.MethodsDefiningAndCallingMethods\07.NumbersToWords\obj\Debug\netcoreapp2.0\07.NumbersToWords.pdb

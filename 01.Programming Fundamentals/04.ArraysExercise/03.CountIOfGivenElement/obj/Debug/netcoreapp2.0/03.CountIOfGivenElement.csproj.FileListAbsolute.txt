@@ -1,0 +1,10 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\bin\Debug\netcoreapp2.0\03.CountIOfGivenElement.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\bin\Debug\netcoreapp2.0\03.CountIOfGivenElement.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\bin\Debug\netcoreapp2.0\03.CountIOfGivenElement.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\bin\Debug\netcoreapp2.0\03.CountIOfGivenElement.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\bin\Debug\netcoreapp2.0\03.CountIOfGivenElement.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\obj\Debug\netcoreapp2.0\03.CountIOfGivenElement.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\obj\Debug\netcoreapp2.0\03.CountIOfGivenElement.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\obj\Debug\netcoreapp2.0\03.CountIOfGivenElement.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\obj\Debug\netcoreapp2.0\03.CountIOfGivenElement.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\03.CountIOfGivenElement\obj\Debug\netcoreapp2.0\03.CountIOfGivenElement.pdb
