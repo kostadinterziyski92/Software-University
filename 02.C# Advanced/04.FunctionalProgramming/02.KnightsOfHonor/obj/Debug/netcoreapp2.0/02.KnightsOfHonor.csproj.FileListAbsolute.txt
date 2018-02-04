@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\bin\Debug\netcoreapp2.0\04.FindEvenOrOdd.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\bin\Debug\netcoreapp2.0\04.FindEvenOrOdd.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\bin\Debug\netcoreapp2.0\04.FindEvenOrOdd.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\bin\Debug\netcoreapp2.0\04.FindEvenOrOdd.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\bin\Debug\netcoreapp2.0\04.FindEvenOrOdd.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\obj\Debug\netcoreapp2.0\04.FindEvenOrOdd.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\obj\Debug\netcoreapp2.0\04.FindEvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\obj\Debug\netcoreapp2.0\04.FindEvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\obj\Debug\netcoreapp2.0\04.FindEvenOrOdd.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\obj\Debug\netcoreapp2.0\04.FindEvenOrOdd.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\04.FindEvenOrOdd\obj\Debug\netcoreapp2.0\04.FindEvenOrOdd.pdb
