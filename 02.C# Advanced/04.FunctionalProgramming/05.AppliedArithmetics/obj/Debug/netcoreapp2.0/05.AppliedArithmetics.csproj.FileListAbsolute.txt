@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.pdb

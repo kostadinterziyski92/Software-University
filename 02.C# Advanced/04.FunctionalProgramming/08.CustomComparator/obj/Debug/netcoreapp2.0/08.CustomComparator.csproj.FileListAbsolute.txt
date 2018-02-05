@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.pdb

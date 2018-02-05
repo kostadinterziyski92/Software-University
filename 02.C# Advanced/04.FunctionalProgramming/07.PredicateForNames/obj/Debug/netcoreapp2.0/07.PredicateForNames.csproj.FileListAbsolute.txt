@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.pdb
