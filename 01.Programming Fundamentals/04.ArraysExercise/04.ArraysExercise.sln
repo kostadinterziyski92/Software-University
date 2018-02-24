@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.LargestElementInArray", "01.LargestElementInArray\01.LargestElementInArray.csproj", "{56E59A47-9746-48EF-AF2C-0598578AB847}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.LargestElementInArray", "01.LargestElementInArray\01.LargestElementInArray.csproj", "{56E59A47-9746-48EF-AF2C-0598578AB847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CountOfNegativeElementsInArray", "02.CountOfNegativeElementsInArray\02.CountOfNegativeElementsInArray.csproj", "{AB47F898-666F-4F53-8BC4-5831EB1FB592}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CountOfNegativeElementsInArray", "02.CountOfNegativeElementsInArray\02.CountOfNegativeElementsInArray.csproj", "{AB47F898-666F-4F53-8BC4-5831EB1FB592}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CountIOfGivenElement", "03.CountIOfGivenElement\03.CountIOfGivenElement.csproj", "{97DDB95B-F255-446E-9D39-057E2FCA7DA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CountIOfGivenElement", "03.CountIOfGivenElement\03.CountIOfGivenElement.csproj", "{97DDB95B-F255-446E-9D39-057E2FCA7DA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CountOccurencesInArray", "04.CountOccurencesInArray\04.CountOccurencesInArray.csproj", "{53BF3594-3C2B-49F1-BD76-40C5AF9C245A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CountOccurencesInArray", "04.CountOccurencesInArray\04.CountOccurencesInArray.csproj", "{53BF3594-3C2B-49F1-BD76-40C5AF9C245A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.IncreasingSequenceOfElements", "05.IncreasingSequenceOfElements\05.IncreasingSequenceOfElements.csproj", "{64BD8686-55BD-43D7-AF97-83F29023A32D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.IncreasingSequenceOfElements", "05.IncreasingSequenceOfElements\05.IncreasingSequenceOfElements.csproj", "{64BD8686-55BD-43D7-AF97-83F29023A32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualSequenceOfElementsInArray", "06.EqualSequenceOfElementsInArray\06.EqualSequenceOfElementsInArray.csproj", "{755336B4-CC20-43B5-B81C-71661886702C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{64BD8686-55BD-43D7-AF97-83F29023A32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64BD8686-55BD-43D7-AF97-83F29023A32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64BD8686-55BD-43D7-AF97-83F29023A32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755336B4-CC20-43B5-B81C-71661886702C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755336B4-CC20-43B5-B81C-71661886702C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755336B4-CC20-43B5-B81C-71661886702C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755336B4-CC20-43B5-B81C-71661886702C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

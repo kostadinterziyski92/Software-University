@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\bin\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\bin\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\bin\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\bin\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\bin\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\obj\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\obj\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\obj\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\obj\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\obj\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\01.Programming Fundamentals\04.ArraysExercise\06.EqualSequenceOfElementsInArray\obj\Debug\netcoreapp2.0\06.EqualSequenceOfElementsInArray.pdb

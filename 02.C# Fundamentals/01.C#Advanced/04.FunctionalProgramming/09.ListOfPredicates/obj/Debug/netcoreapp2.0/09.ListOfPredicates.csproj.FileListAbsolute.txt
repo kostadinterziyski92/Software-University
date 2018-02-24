@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Advanced\04.FunctionalProgramming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.pdb
