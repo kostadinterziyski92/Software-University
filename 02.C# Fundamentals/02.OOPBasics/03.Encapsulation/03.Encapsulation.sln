@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ClassBox", "01.ClassBox\01.ClassBox.csproj", "{32869F8F-6A7B-40CD-8B9C-633D6684C531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ClassBoxDataValidation", "02.ClassBoxDataValidation\02.ClassBoxDataValidation.csproj", "{C221458C-6150-4D8F-94E6-3AA043B69AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32869F8F-6A7B-40CD-8B9C-633D6684C531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32869F8F-6A7B-40CD-8B9C-633D6684C531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32869F8F-6A7B-40CD-8B9C-633D6684C531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32869F8F-6A7B-40CD-8B9C-633D6684C531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C221458C-6150-4D8F-94E6-3AA043B69AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C221458C-6150-4D8F-94E6-3AA043B69AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C221458C-6150-4D8F-94E6-3AA043B69AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C221458C-6150-4D8F-94E6-3AA043B69AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C65535-65CE-4907-BEC1-17E821DF5AD0}
+	EndGlobalSection
+EndGlobal
