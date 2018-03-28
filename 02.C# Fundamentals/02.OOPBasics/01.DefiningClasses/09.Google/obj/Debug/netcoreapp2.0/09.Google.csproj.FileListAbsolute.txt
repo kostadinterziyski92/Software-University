@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\bin\Debug\netcoreapp2.0\09.Google.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\bin\Debug\netcoreapp2.0\09.Google.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\bin\Debug\netcoreapp2.0\09.Google.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\bin\Debug\netcoreapp2.0\09.Google.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\bin\Debug\netcoreapp2.0\09.Google.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\obj\Debug\netcoreapp2.0\09.Google.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\obj\Debug\netcoreapp2.0\09.Google.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\obj\Debug\netcoreapp2.0\09.Google.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\obj\Debug\netcoreapp2.0\09.Google.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\obj\Debug\netcoreapp2.0\09.Google.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\09.Google\obj\Debug\netcoreapp2.0\09.Google.pdb

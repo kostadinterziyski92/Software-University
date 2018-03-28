@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\bin\Debug\netcoreapp2.0\08.PokemonTrainer.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\bin\Debug\netcoreapp2.0\08.PokemonTrainer.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\bin\Debug\netcoreapp2.0\08.PokemonTrainer.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\bin\Debug\netcoreapp2.0\08.PokemonTrainer.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\bin\Debug\netcoreapp2.0\08.PokemonTrainer.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\obj\Debug\netcoreapp2.0\08.PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\obj\Debug\netcoreapp2.0\08.PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\obj\Debug\netcoreapp2.0\08.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\obj\Debug\netcoreapp2.0\08.PokemonTrainer.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\obj\Debug\netcoreapp2.0\08.PokemonTrainer.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\08.PokemonTrainer\obj\Debug\netcoreapp2.0\08.PokemonTrainer.pdb

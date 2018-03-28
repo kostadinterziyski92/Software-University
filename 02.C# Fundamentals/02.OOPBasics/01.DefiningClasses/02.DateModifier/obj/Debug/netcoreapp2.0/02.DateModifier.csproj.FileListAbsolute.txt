@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\bin\Debug\netcoreapp2.0\02.DateModifier.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\bin\Debug\netcoreapp2.0\02.DateModifier.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\bin\Debug\netcoreapp2.0\02.DateModifier.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\bin\Debug\netcoreapp2.0\02.DateModifier.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\bin\Debug\netcoreapp2.0\02.DateModifier.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\obj\Debug\netcoreapp2.0\02.DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\obj\Debug\netcoreapp2.0\02.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\obj\Debug\netcoreapp2.0\02.DateModifier.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\obj\Debug\netcoreapp2.0\02.DateModifier.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\obj\Debug\netcoreapp2.0\02.DateModifier.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\02.DateModifier\obj\Debug\netcoreapp2.0\02.DateModifier.pdb

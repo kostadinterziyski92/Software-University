@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\bin\Debug\netcoreapp2.0\03.CompanyRooster.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\bin\Debug\netcoreapp2.0\03.CompanyRooster.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\bin\Debug\netcoreapp2.0\03.CompanyRooster.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\bin\Debug\netcoreapp2.0\03.CompanyRooster.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\bin\Debug\netcoreapp2.0\03.CompanyRooster.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\obj\Debug\netcoreapp2.0\03.CompanyRooster.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\obj\Debug\netcoreapp2.0\03.CompanyRooster.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\obj\Debug\netcoreapp2.0\03.CompanyRooster.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\obj\Debug\netcoreapp2.0\03.CompanyRooster.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\obj\Debug\netcoreapp2.0\03.CompanyRooster.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\03.CompanyRooster\obj\Debug\netcoreapp2.0\03.CompanyRooster.pdb

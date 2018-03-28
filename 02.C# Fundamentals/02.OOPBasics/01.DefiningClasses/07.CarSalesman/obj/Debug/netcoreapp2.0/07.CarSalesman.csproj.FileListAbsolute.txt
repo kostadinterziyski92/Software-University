@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\bin\Debug\netcoreapp2.0\07.CarSalesman.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\bin\Debug\netcoreapp2.0\07.CarSalesman.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\bin\Debug\netcoreapp2.0\07.CarSalesman.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\bin\Debug\netcoreapp2.0\07.CarSalesman.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\bin\Debug\netcoreapp2.0\07.CarSalesman.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\obj\Debug\netcoreapp2.0\07.CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\obj\Debug\netcoreapp2.0\07.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\obj\Debug\netcoreapp2.0\07.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\obj\Debug\netcoreapp2.0\07.CarSalesman.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\obj\Debug\netcoreapp2.0\07.CarSalesman.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\01.DefiningClasses\07.CarSalesman\obj\Debug\netcoreapp2.0\07.CarSalesman.pdb
