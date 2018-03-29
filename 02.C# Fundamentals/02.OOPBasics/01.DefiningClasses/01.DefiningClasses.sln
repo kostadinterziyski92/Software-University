@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Google", "09.Google\09.G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.FamilyTree", "10.FamilyTree\10.FamilyTree.csproj", "{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DateModifierTask", "02.DateModifier\02.DateModifierTask.csproj", "{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DateModifierTask", "02.DateModifierTask\02.DateModifierTask.csproj", "{2DD03907-FAF5-43C5-BC51-92D3F7D76427}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +65,10 @@ Global
 		{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD03907-FAF5-43C5-BC51-92D3F7D76427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD03907-FAF5-43C5-BC51-92D3F7D76427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD03907-FAF5-43C5-BC51-92D3F7D76427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD03907-FAF5-43C5-BC51-92D3F7D76427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
