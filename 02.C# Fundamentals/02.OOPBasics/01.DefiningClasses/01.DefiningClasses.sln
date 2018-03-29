@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DateModifier", "02.DateModifier\02.DateModifier.csproj", "{E37E34EF-EB18-4CF9-AD5B-23E569D3E9A6}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CompanyRooster", "03.CompanyRooster\03.CompanyRooster.csproj", "{9573764F-EF16-4FFC-A523-4D1E19E6C53A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SpeedRacing", "04.SpeedRacing\04.SpeedRacing.csproj", "{8FC02AEB-8818-4BBD-A64A-19D2C6237516}"
@@ -21,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.PokemonTrainer", "08.Pok
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Google", "09.Google\09.Google.csproj", "{DD6B49C7-1C95-4416-B637-BA18FC9548CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.FamilyTree", "10.FamilyTree\10.FamilyTree.csproj", "{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.FamilyTree", "10.FamilyTree\10.FamilyTree.csproj", "{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DateModifierTask", "02.DateModifier\02.DateModifierTask.csproj", "{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E37E34EF-EB18-4CF9-AD5B-23E569D3E9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E37E34EF-EB18-4CF9-AD5B-23E569D3E9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E37E34EF-EB18-4CF9-AD5B-23E569D3E9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E37E34EF-EB18-4CF9-AD5B-23E569D3E9A6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9573764F-EF16-4FFC-A523-4D1E19E6C53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9573764F-EF16-4FFC-A523-4D1E19E6C53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9573764F-EF16-4FFC-A523-4D1E19E6C53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +65,10 @@ Global
 		{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBEF15B4-3985-4070-AA17-2AA5F8861EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA67CC52-E160-4CDC-A5B8-BD3D60F79FD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
