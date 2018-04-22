@@ -3,7 +3,7 @@ using System.Text;
 
 public class Worker : Human
 {
-    private const int WORK_DAYS_PER_WEEK = 5;
+    private const int WorkDaysPerWeek = 5;
 
     private decimal weekSalary;
     private int workHoursPerDay;
@@ -55,7 +55,7 @@ public class Worker : Human
         sb.AppendLine($"Last Name: {this.LastName}");
         sb.AppendLine($"Week Salary: {this.WeekSalary:f2}");
         sb.AppendLine($"Hours per day: {this.WorkHoursPerDay:f2}");
-        sb.AppendLine($"Salary per hour: {(this.WeekSalary / WORK_DAYS_PER_WEEK / this.WorkHoursPerDay):f2}");
+        sb.AppendLine($"Salary per hour: {(this.WeekSalary / WorkDaysPerWeek / this.WorkHoursPerDay):f2}");
 
         return sb.ToString();
     }

@@ -2,6 +2,9 @@
 
 public class Human
 {
+    private const int FirstNameMinLength = 3;
+    private const int LastNameMinLength = 2;
+
     private string firstName;
     private string lastName;
 
@@ -13,41 +16,39 @@ public class Human
 
     public string FirstName
     {
-        get
-        {
-            return firstName;
-        }
+        get { return firstName; }
         protected set
         {
-            if (!char.IsUpper(value[0]))
-            {
-                throw new ArgumentException("Expected upper case letter! Argument: firstName");
-            }
-            if (value.Length < 4)
-            {
-                throw new ArgumentException("Expected length at least 4 symbols! Argument: firstName");
-            }
+            IsItCapitalLetter(value);
+            NameLengthRestriction(value, FirstNameMinLength);
             firstName = value;
         }
     }
 
     public string LastName
     {
-        get
+        get { return lastName; }
+        protected set
         {
-            return lastName;
-        }
-        protected set 
-        {
-            if (!char.IsUpper(value[0]))
-            {
-                throw new ArgumentException("Expected upper case letter! Argument: lirstName");
-            }
-            if (value.Length < 3)
-            {
-                throw new ArgumentException("Expected length at least 3 symbols! Argument: lirstName");
-            }
+            IsItCapitalLetter(value);
+            NameLengthRestriction(value, LastNameMinLength);
             lastName = value;
+        }
+    }
+
+    private void IsItCapitalLetter(string name)
+    {
+        if (!char.IsUpper(name[0]))
+        {
+            throw new ArgumentException($"Expected upper case letter! Argument: {name}");
+        }
+    }
+
+    private void NameLengthRestriction(string name, int restriction)
+    {
+        if (name.Length <= restriction)
+        {
+            throw new ArgumentException($"Expected legth at least {restriction + 1} symbols! Argument: {name}");
         }
     }
 
