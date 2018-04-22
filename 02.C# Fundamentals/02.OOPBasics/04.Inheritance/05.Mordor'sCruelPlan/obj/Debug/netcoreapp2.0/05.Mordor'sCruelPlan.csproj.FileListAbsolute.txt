@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\bin\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\bin\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\bin\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\bin\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\bin\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\obj\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\obj\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\obj\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\obj\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\obj\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\05.Mordor'sCruelPlan\obj\Debug\netcoreapp2.0\05.Mordor'sCruelPlan.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp2.0\03.Telephony.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp2.0\03.Telephony.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp2.0\03.Telephony.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp2.0\03.Telephony.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp2.0\03.Telephony.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp2.0\03.Telephony.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp2.0\03.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp2.0\03.Telephony.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp2.0\03.Telephony.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp2.0\03.Telephony.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp2.0\03.Telephony.pdb

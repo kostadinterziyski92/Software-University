@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.pdb

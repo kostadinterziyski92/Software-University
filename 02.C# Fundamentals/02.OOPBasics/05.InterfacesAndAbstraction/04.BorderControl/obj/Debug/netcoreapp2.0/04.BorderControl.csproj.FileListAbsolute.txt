@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp2.0\04.BorderControl.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp2.0\04.BorderControl.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp2.0\04.BorderControl.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp2.0\04.BorderControl.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp2.0\04.BorderControl.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp2.0\04.BorderControl.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp2.0\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp2.0\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp2.0\04.BorderControl.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp2.0\04.BorderControl.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp2.0\04.BorderControl.pdb

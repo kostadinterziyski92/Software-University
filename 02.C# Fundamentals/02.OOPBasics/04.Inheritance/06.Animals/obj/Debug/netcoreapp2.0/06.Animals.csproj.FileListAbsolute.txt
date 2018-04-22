@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\04.Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.pdb

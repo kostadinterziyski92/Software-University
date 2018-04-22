@@ -1,0 +1,11 @@
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\bin\Debug\netcoreapp2.0\02.FerrariTask.deps.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\bin\Debug\netcoreapp2.0\02.FerrariTask.runtimeconfig.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\bin\Debug\netcoreapp2.0\02.FerrariTask.runtimeconfig.dev.json
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\bin\Debug\netcoreapp2.0\02.FerrariTask.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\bin\Debug\netcoreapp2.0\02.FerrariTask.pdb
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\obj\Debug\netcoreapp2.0\02.FerrariTask.csprojResolveAssemblyReference.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\obj\Debug\netcoreapp2.0\02.FerrariTask.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\obj\Debug\netcoreapp2.0\02.FerrariTask.AssemblyInfoInputs.cache
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\obj\Debug\netcoreapp2.0\02.FerrariTask.AssemblyInfo.cs
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\obj\Debug\netcoreapp2.0\02.FerrariTask.dll
+C:\Users\Kostadin Terziyski\Desktop\Software-University\02.C# Fundamentals\02.OOPBasics\05.InterfacesAndAbstraction\02.Ferrari\obj\Debug\netcoreapp2.0\02.FerrariTask.pdb
