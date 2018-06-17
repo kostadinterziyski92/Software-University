@@ -665,26 +665,26 @@
   },
   "packageFolders": {
     "C:\\Users\\Kostadin Terziyski\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01.Programming Fundamentals\\02.MethodsDefiningAndCallingMethods\\03.StringRepeater\\03.StringRepeater.csproj",
+      "projectUniqueName": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01. Programming Fundamentals\\02.MethodsDefiningAndCallingMethodsExercise\\03.StringRepeater\\03.StringRepeater.csproj",
       "projectName": "03.StringRepeater",
-      "projectPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01.Programming Fundamentals\\02.MethodsDefiningAndCallingMethods\\03.StringRepeater\\03.StringRepeater.csproj",
+      "projectPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01. Programming Fundamentals\\02.MethodsDefiningAndCallingMethodsExercise\\03.StringRepeater\\03.StringRepeater.csproj",
       "packagesPath": "C:\\Users\\Kostadin Terziyski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01.Programming Fundamentals\\02.MethodsDefiningAndCallingMethods\\03.StringRepeater\\obj\\",
+      "outputPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01. Programming Fundamentals\\02.MethodsDefiningAndCallingMethodsExercise\\03.StringRepeater\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Kostadin Terziyski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -709,7 +709,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

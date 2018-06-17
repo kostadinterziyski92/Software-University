@@ -665,26 +665,26 @@
   },
   "packageFolders": {
     "C:\\Users\\Kostadin Terziyski\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01.Programming Fundamentals\\02.MethodsDefiningAndCallingMethods\\04.NthDigit\\04.NthDigit.csproj",
+      "projectUniqueName": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01. Programming Fundamentals\\02.MethodsDefiningAndCallingMethodsExercise\\04.NthDigit\\04.NthDigit.csproj",
       "projectName": "04.NthDigit",
-      "projectPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01.Programming Fundamentals\\02.MethodsDefiningAndCallingMethods\\04.NthDigit\\04.NthDigit.csproj",
+      "projectPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01. Programming Fundamentals\\02.MethodsDefiningAndCallingMethodsExercise\\04.NthDigit\\04.NthDigit.csproj",
       "packagesPath": "C:\\Users\\Kostadin Terziyski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01.Programming Fundamentals\\02.MethodsDefiningAndCallingMethods\\04.NthDigit\\obj\\",
+      "outputPath": "C:\\Users\\Kostadin Terziyski\\Desktop\\Software-University\\01. Programming Fundamentals\\02.MethodsDefiningAndCallingMethodsExercise\\04.NthDigit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Kostadin Terziyski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -709,7 +709,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
